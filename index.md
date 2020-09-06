@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Herein lives the ideas of Mike(or they will)
 
-You can use the [editor on GitHub](https://github.com/LostButStillImproving/LostButStillImproving.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Who am I?
+I'm Mike! I'm a fresh student of the 2020-2023 class of Computer Science at Zealand.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://scontent.fcph3-1.fna.fbcdn.net/v/t1.0-9/1452213_10201610711001909_1319335279_n.jpg?_nc_cat=111&_nc_sid=cdbe9c&_nc_ohc=nMFEskqnE3IAX8gaw4B&_nc_ht=scontent.fcph3-1.fna&oh=27c4c8a4f905502d9edca6ae7345c4a5&oe=5F787C4C" alt="Your image title" width="200" height ="200"/>
 
-### Markdown
+Current interests include:
+- Programming
+- Running
+- A dash of gaming
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can find me at my _incredibly_ inadequate LinkedIn profile [here](https://www.linkedin.com/in/mike-rasmussen-32548242/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LostButStillImproving/LostButStillImproving.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

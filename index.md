@@ -11,5 +11,3 @@ Current interests include:
 - A dash of gaming
 
 You can find me at my _incredibly_ inadequate LinkedIn profile [here](https://www.linkedin.com/in/mike-rasmussen-32548242/)
-
-```
